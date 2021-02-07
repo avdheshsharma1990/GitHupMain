@@ -12,5 +12,9 @@ namespace Test
         public string ID { get; set; }
         public string Salary { get; set; }
         public string Address { get; set; }
+
+        public string Country { get; set; }
+
+        public string City { get; set; }
     }
 }
