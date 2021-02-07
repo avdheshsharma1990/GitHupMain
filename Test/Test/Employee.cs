@@ -16,5 +16,6 @@ namespace Test
         public string Country { get; set; }
         public string City { get; set; }
         public string Department { get; set; }
+        public Int DepartmentID { get; set; }
     }
 }
